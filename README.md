@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shaik Sameer Hussain 👋
 
-<!--
-**ShaikSameerHussain12/ShaikSameerHussain12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst skilled in SQL, Python, Power BI, and Tableau — turning large, complex datasets into stakeholder-ready insights.
 
-Here are some ideas to get you started:
+## 💻 Skills
+**Programming & Querying:** Python, SQL, T-SQL, MySQL, PostgreSQL  
+**Data Analysis & ML:** Pandas, NumPy, EDA, Data Cleaning, Data Wrangling, Feature Engineering, Regression, Classification, Anomaly Detection, Statistical Analysis  
+**Visualization & BI:** Power BI, Tableau, Excel (Pivot Tables, VLOOKUP), Matplotlib, Seaborn, Dashboard Development, KPI Reporting, Business Intelligence  
+**Databases, Tools & Concepts:** SQL Server (SSMS), Data Modeling (Star Schema), Jupyter Notebook, Google Colab, Git, GitHub, Data Storytelling, Requirements Gathering, Stakeholder Communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+- Learning Machine Learning fundamentals — regression, classification, model evaluation
+- Studying gradient boosting / XGBoost
+- Preparing to apply ML on real datasets, building toward a Data Scientist transition
+
+📧 **Email:** [shaik.sameer.hussain12@gmail.com](mailto:shaik.sameer.hussain12@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com)
