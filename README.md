@@ -14,4 +14,4 @@ Data Analyst skilled in SQL, Python, Power BI, and Tableau — turning large, co
 - Preparing to apply ML on real datasets, building toward a Data Scientist transition
 
 📧 **Email:** [shaik.sameer.hussain12@gmail.com](mailto:shaik.sameer.hussain12@gmail.com)
-🔗 **LinkedIn:** [Shaik Sameer Hussain]([https://linkedin.com](https://www.linkedin.com/in/shaik-sameer-hussain-425a012bb/))
+🔗 **LinkedIn:** [Shaik Sameer Hussain](https://www.linkedin.com/in/shaik-sameer-hussain-425a012bb/)
